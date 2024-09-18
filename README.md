@@ -1,8 +1,8 @@
 # Teste-1-Target
-Este programa em Java verifica se um número informado pertence à sequência de Fibonacci. A sequência começa com 0 e 1, e cada número subsequente é a soma dos dois anteriores.
+Este programa usa Java 22 com Maven e verifica se um número informado pertence à sequência de Fibonacci.
 
 Componentes principais:
-Método pertenceAFibonacci(int numero):
+Método isFibonacci(int numero):
 
 Verifica se o número informado está na sequência de Fibonacci.
 Começa com os números iniciais da sequência (0 e 1) e calcula os próximos números até encontrar o número informado ou passar dele.
